@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PockyTehDog
+- 👋 Hi, I’m @PockyTehDog or Jake 
 - 👀 I’m interested in learning how to code and possibly finding a career with the skill of it
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
